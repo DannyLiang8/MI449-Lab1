@@ -9,3 +9,29 @@ h1{
 p{
     color: white;
 }
+
+.header{
+    padding: 0;
+    margin: 0;
+}
+
+.earth{
+    border: 7.5px solid white;
+    border-radius: 50%;
+}
+
+.moon{
+    border: 7.5px solid white;
+    border-radius: 50%;
+}
+
+.center-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.center-text {
+    text-align: center;
+}
